@@ -647,12 +647,12 @@ flowchart TD
 # 출처 및 참고 
 
 - 우아한형제들 기술블로그
---WMS 재고 이관을 위한 분산 락 사용기
-  DC → PPC 이관 구조, WMS 역할, 이관요청서 항목 및 할당 상태 확인에 가장 직접적인 자료.
-  https://techblog.woowahan.com/17416/
---운송 관리 시스템(TMS)의 탄생부터 현장에서 사용하기까지
-  TMS의 역할, 배차, 출고 물량, 차량 관제, 입출차 이력 확인.
-  https://techblog.woowahan.com/17466/
---B마트 OMS의 물류주문관리를 통한 출고 최적화
-  OMS, 주문부터 출고·배송까지의 흐름, PPC 운영 및 출고 최적화 확인.
-  https://techblog.woowahan.com/22263/
+-    WMS 재고 이관을 위한 분산 락 사용기
+-    DC → PPC 이관 구조, WMS 역할, 이관요청서 항목 및 할당 상태 확인에 가장 직접적인 자료.
+-    https://techblog.woowahan.com/17416/
+운송 관리 시스템(TMS)의 탄생부터 현장에서 사용하기까지
+TMS의 역할, 배차, 출고 물량, 차량 관제, 입출차 이력 확인.
+https://techblog.woowahan.com/17466/
+B마트 OMS의 물류주문관리를 통한 출고 최적화
+OMS, 주문부터 출고·배송까지의 흐름, PPC 운영 및 출고 최적화 확인.
+https://techblog.woowahan.com/22263/
