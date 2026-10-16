@@ -655,3 +655,6 @@ flowchart TD
     TMS의 역할, 배차, 출고 물량, 차량 관제, 입출차 이력 확인. https://techblog.woowahan.com/17466/
     - B마트 OMS의 물류주문관리를 통한 출고 최적화
     OMS, 주문부터 출고·배송까지의 흐름, PPC 운영 및 출고 최적화 확인. https://techblog.woowahan.com/22263/
+
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/1ebcacd0-2d26-4c1b-863a-39c533e26e06" />
